@@ -134,3 +134,7 @@
 ---
 
 **All outputs saved to:**
+<img width="3734" height="593" alt="fig2_response" src="https://github.com/user-attachments/assets/a0e2e816-0c2c-45d6-a6b4-3d24dca5a892" />
+<img width="1932" height="667" alt="fig2_loss" src="https://github.com/user-attachments/assets/7dc47802-4653-46f9-8caa-035cf2940006" />
+<img width="3734" height="593" alt="fig1_response" src="https://github.com/user-attachments/assets/cbaa4491-e4d5-4e40-a73c-c323106c8ca3" />
+<img width="1933" height="667" alt="fig1_loss" src="https://github.com/user-attachments/assets/da0132ba-21a2-41c1-83f3-a1973feb4034" />
